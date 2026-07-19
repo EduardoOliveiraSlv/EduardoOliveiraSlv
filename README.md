@@ -1,4 +1,5 @@
-#  Olá, eu sou Eduardo 💻!
+
+# 💻 Criando experiências através do código | Front-end Developer
 
 ## ⚡ Sobre mim
 
